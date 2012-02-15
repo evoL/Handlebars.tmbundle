@@ -5,7 +5,8 @@
 	<key>fileTypes</key>
 	<array>
 		<string>handlebars</string>
-                <string>hbs</string>
+        <string>hbs</string>
+        <string>hjs</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>(?x)
